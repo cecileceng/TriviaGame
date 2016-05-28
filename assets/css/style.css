@@ -9,11 +9,17 @@ body {
 
 h1 {
 	font-family: 'Architects Daughter', cursive;
-	font-size: 32px;
+	font-size: 36px;
 }
 
 header {
-	margin: 20px;
+	margin-left: 25%;
+}
+
+.image-container img {
+	width: 200px;
+	height: auto;
+	padding: 5px;
 }
 
 #container {
@@ -23,5 +29,10 @@ header {
 	background: white;
 	margin: 20px;
 	padding: 5px;
+}
+
+#start-btn {
+	margin-left: 35%;
+	align-content: center;
 }
 
