@@ -1,0 +1,27 @@
+body {
+	background: url('../images/sushi-bg.png');
+	background-color: #faced5;
+	background-size: 960px;
+	background-repeat: no-repeat;
+	font-family: 'Architects Daughter', cursive;
+	margin: 20px;
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 32px;
+}
+
+header {
+	margin: 20px;
+}
+
+#container {
+	width: 100%;
+	max-width: 700px;
+	height: auto;
+	background: white;
+	margin: 20px;
+	padding: 5px;
+}
+
